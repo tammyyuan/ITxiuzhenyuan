@@ -2,10 +2,10 @@ body{
     background-color:rgb(104,205,213) ;
     margin: 0;
 }
-p{
+.mainbody p{
     color: white;
-    padding: 3rem 3rem 3rem 3rem;
-    font-size: 0.8rem;
+    padding: 3rem 0 3rem 0;
+    font-size: 1rem;
 }
 .return_arrow{
     height: 2.7rem;
@@ -25,9 +25,14 @@ p{
     height: 3.2rem;
     width: 9rem;
 }
+.mainbody{
+    height: auto;
+    width: 70%;
+    max-width: 49rem;
+    margin: 0 auto;
+}
 .left{
     float: left;
-    margin-left: 3.6rem;
 }
 .left img{
     width: 3rem;
@@ -43,7 +48,6 @@ p{
 }
 .right{
     float: right;
-    margin-right: 3.6rem;
 }
 .right img{
     width: 3rem;
