@@ -4,7 +4,7 @@ body{
 }
 p{
     color: white;
-    padding: 1rem 3rem 3rem 3rem;
+    padding: 3rem 3rem 3rem 3rem;
     font-size: 0.8rem;
 }
 .return_arrow{
@@ -13,40 +13,41 @@ p{
     padding: 1rem 0 4rem 1rem;
 }
 .return_arrow img{
-    width: 2.7rem;
-    height: 2.7rem;
+    width: 2rem;
+    height: 2rem;
 }
 .grape{
     height: 3.2rem;
     width: 9rem;
     margin: 0 auto;
-
 }
 .grape img{
     height: 3.2rem;
     width: 9rem;
-
 }
 .left{
     float: left;
-    margin-left: 4rem;
-
+    margin-left: 3.6rem;
 }
 .left img{
-    width: 4rem;
-    height: 4rem;
+    width: 3rem;
+    height: 3rem;
 }
 .left p{
     padding: 0;
     margin: 0;
 }
+.iconimage{
+    width: 3rem;
+    margin: 0 auto;
+}
 .right{
     float: right;
-    margin-right: 4rem;
+    margin-right: 3.6rem;
 }
 .right img{
-    width: 4rem;
-    height: 4rem;
+    width: 3rem;
+    height: 3rem;
 }
 .right p{
     padding: 0;
