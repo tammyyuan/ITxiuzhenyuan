@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: rgb(95,192,205);
+    width: 100%;
+    height: 3rem;
+    color: white;
+}
+.title{
+    line-height: 3rem;
+    width: 9rem;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+.return{
+    float: left;
+    line-height: 3rem;
+}
+.return img{
+    height: 1rem;
+    width: auto;
+    margin-left: 1rem;
+}
+.comment{
+    position: absolute;
+    left: 3.3%;
+}
+.comment input{
+    height: 3rem;
+    border: solid 3px rgb(95,192,205);
+    background-color: white;
+    color: rgb(95,192,205);
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+.contact{
+    position: absolute;
+    right: 3.3%;
+}
+.contact input{
+    height: 3rem;
+    border: none;
+    background-color: rgb(95,192,205);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
